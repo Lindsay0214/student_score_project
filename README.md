@@ -7,5 +7,8 @@
 4. 條件判斷 (if-elif-else) 來判斷等級 (A, B, C, D, F)
 5. 用 matplotlib 製作條狀圖，視覺化成績分布，更好觀看
 
-## 執行結果示範
-![Screen Recording 2025-03-23 at 11 02 31 PM](https://github.com/user-attachments/assets/e87a8e95-346a-4599-aa4d-ce3307538c31)
+## 如何執行此檔案
+1. 本地建立此專案 `git clone this repo`
+2. 載入相關依賴套件 `pip install matplotlib`
+3. Run 該專案 `/opt/anaconda3/bin/python /Users/lindsay/Projects/student_score_project/main.py`
+（螢幕錄影影片太大難以壓縮至限制尺寸敬請見諒🙏）
