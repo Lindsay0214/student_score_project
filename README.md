@@ -11,4 +11,5 @@
 1. 本地建立此專案 `git clone this repo`
 2. 載入相關依賴套件 `pip install matplotlib`
 3. Run 該專案 `/opt/anaconda3/bin/python /Users/lindsay/Projects/student_score_project/main.py`
-（螢幕錄影影片太大難以壓縮至限制尺寸敬請見諒🙏）
+
+<img width="1512" alt="Screenshot 2025-03-24 at 12 05 27 AM" src="https://github.com/user-attachments/assets/7001983e-ae85-48a4-8a3d-b97a418234d8" />
